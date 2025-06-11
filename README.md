@@ -25,3 +25,17 @@ accessibility.
 
    ![image](https://github.com/user-attachments/assets/d31f24aa-f580-48cf-9b83-527272fa21c9)
 
+   4.Front end development:(TASK-2):
+   Task 2: Build the responsive sidebar menu and sticky internship
+banner
+Description: Develop a collapsible sidebar that slides in/out or opens via a hamburger menu
+icon. The sidebar should contain navigation links to all options: internship application, offer
+letter generation, certificate verification, team join form, and contact info. Implement a
+sticky “Apply for Internship” banner that appears at the top left part of the screen when
+scrolling.
+Hints: Use CSS position sticky or JavaScript scroll event listeners for the banner. Ensure
+keyboard accessibility for the sidebar menu. Test on multiple screen sizes.
+
+![Screenshot (29)](https://github.com/user-attachments/assets/4a6b0020-2a0a-4b01-9a37-bb8853d32c97)
+
+
